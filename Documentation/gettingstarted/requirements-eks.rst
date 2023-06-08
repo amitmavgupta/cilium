@@ -13,8 +13,9 @@ For more information on AWS ENI mode, see :ref:`ipam_eni`.
 
 .. tip::
 
-   If you want to chain Cilium on top of the AWS CNI, refer to the guide
+   - If you want to chain Cilium on top of the AWS CNI, refer to the guide
    :ref:`chaining_aws_cni`.
+   - Cilium can also be brought up in a Single-Region, Multi-Region, Multi-AZ environment for EKS.
 
 **Requirements:**
 
